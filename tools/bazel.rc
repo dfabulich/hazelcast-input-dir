@@ -1,0 +1,2 @@
+build --hazelcast_node=127.0.0.1:5701 --genrule_strategy=remote --spawn_strategy=remote
+
